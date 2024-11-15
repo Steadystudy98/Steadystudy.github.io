@@ -21,7 +21,7 @@ title                    : "Noh's Unpatent Site"
 title_separator          : "|"
 subtitle                 : "Steady Study with Noh"
 name                     : "노경오 ノギョンオ NOH GYEONGOH"
-description              : "ノギョンオのホームページです。"
+description              : "ノギョンオのホームページです。東京科学大学 理学院 化学系 谷口研究室に所属し、2024年の弁理士試験に合格しました。"
 url                      : "https://Steadystudy98.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -114,7 +114,11 @@ analytics:
 author:
   name             : "노경오(NOH GYEONGOH, ノギョンオ)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "ノギョンオのホームページです。"
+  bio              : |
+    <div style="font-size: 18px; line-height: 1.6; font-weight: bold; color: #333;">
+      <p><span style="color: #1d72b8;">東京科学大学 理学院 化学系 谷口研究室</span>に所属し、<span style="color: #e63946;">2024年の弁理士試験</span>に合格しました。</p>
+      <p><span style="color: #6c757d;">法律勉強、山登り、キャロムビリヤード、釣り</span>に興味があります。</p>
+    </div>
   location         : "Tokyo, Japan"
   email            : "star5333@naver.com"
   links:

@@ -112,8 +112,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "노경오(NOH GYEONGOH, ノギョンオ)"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  name             : "노경오<br>ノギョンオ<br>NOH GYEONGOH"
+  avatar           : "/images/logo.png"
   bio              : |
     <div style="font-size: 18px; line-height: 1.6; font-weight: bold; color: #333;">
       <p><span style="color: #1d72b8;">東京科学大学 理学院 化学系 谷口研究室</span>に所属し、<span style="color: #e63946;">2024年の弁理士試験</span>に合格しました。</p>
@@ -140,6 +140,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@Unpatent"      
 
 # Site Footer
 footer:
@@ -162,6 +165,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
+    - label: "Youtube"
+      icon: "fab fa-fw fa-youtube"
+      url: "https://www.youtube.com/@Unpatent"
 
 
 # Reading Files
@@ -327,5 +333,8 @@ defaults:
       share: true
       related: true
       show_date: true
+      toc: true
+      toc_sticky: true
+      toc_icon: "fas fa-gavel"
 
 date_format: "%Y-%m-%d"
